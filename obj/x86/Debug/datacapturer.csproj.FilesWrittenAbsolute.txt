@@ -1,0 +1,3 @@
+/Users/ruben/datacapturer/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/ruben/datacapturer/obj/x86/Debug/datacapturer.gtk-gui.gui.stetic
+/Users/ruben/datacapturer/bin/Debug/Newtonsoft.Json.dll
