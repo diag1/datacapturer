@@ -1,23 +1,19 @@
 ﻿<Properties StartupItem="datacapturer.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="main.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Views/MainWindowView.cs">
     <Files>
-      <File FileName="main.cs" Line="13" Column="27" />
-      <File FileName="Views/MainWindowView.cs" Line="41" Column="2" />
-      <File FileName="Core/Fachada.cs" Line="8" Column="3" />
-      <File FileName="Core/Functions.cs" Line="14" Column="4" />
-      <File FileName="Core/Writer.cs" Line="5" Column="2" />
-      <File FileName="gtk-gui/datacapturer.MainWindowCore.cs" Line="9" Column="23" />
+      <File FileName="main.cs" Line="4" Column="23" />
+      <File FileName="Views/MainWindowView.cs" Line="23" Column="4" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="datacapturer" expanded="True">
             <Node name="datacapturer" expanded="True">
-              <Node name="References" expanded="True" />
               <Node name="Core" expanded="True" />
-              <Node name="Views" expanded="True" />
-              <Node name="main.cs" selected="True" />
+              <Node name="Views" expanded="True">
+                <Node name="MainWindowView.cs" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>

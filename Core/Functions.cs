@@ -6,14 +6,10 @@ namespace datacapturer
 {
 	public class Functions:Fachada
 	{
-		
-
 		public double setAverageSpeed (double distance, double time)
 		{
 			return (distance/time);
 		}
-
-
 	}
 }
 
